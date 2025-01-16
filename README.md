@@ -2,4 +2,4 @@
 
 </br>
 <h2>많이 해본 기술들</h2>
-[![My Skills](https://skillicons.dev/icons?i=c,js,html,css,java,python,springboot,react,mysql,git,slack)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,js,html,css,java,python,spring,react,mysql,git)](https://skillicons.dev)
