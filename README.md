@@ -2,8 +2,7 @@
 
 </br>
 <h2 align="center">🛠️많이 해본 기술들</h2>
-<p>
-  <a href="http://skillicons.dev>
-    <img src="https://skillicons.dev/icons?i=java,spring,react,mysql,js,git,html,css,c,python" />
-  <a/>
-</p>
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+
+
+java,spring,react,mysql,js,git,html,css,c,python
