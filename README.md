@@ -3,7 +3,7 @@
 </br>
 <h2 align="center">🛠️많이 해본 기술들</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
 </p>
 
 java,spring,react,mysql,js,git,html,css,c,python
