@@ -18,7 +18,7 @@
 
 </br>
 <h2 align="center">⛏️해본적 있는 기술들</h2>
-<p align="center>
+<p align="center">
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
 </p>
